@@ -1,0 +1,6 @@
+[input]
+path = medias-cost-prediction-in-foodmart\input\
+input_file_name = customer_campaign_cost_prediction
+target_variable = cost
+[output]
+path = medias-cost-prediction-in-foodmart\output\
